@@ -1,0 +1,19 @@
+div {
+    background-color: black ;
+    /*#00358e*/
+    height: 90px;
+    border-radius: 5px;
+}
+
+app-social-media {
+    float: right;
+    margin-top: 20px;
+    margin-right: 7px;
+}
+
+app-aplogo {
+    float: left;
+    height: 90px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
