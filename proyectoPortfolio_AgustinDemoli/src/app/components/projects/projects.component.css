@@ -1,0 +1,12 @@
+.row {
+    padding: 0px;
+}
+
+.contenedor {
+    width: auto;
+}
+
+.parte1 {
+    display: inline-block;
+    text-align: justify;
+}
